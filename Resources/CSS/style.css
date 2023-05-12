@@ -10,7 +10,7 @@
 .head1 img {
     background-color: aliceblue;
     margin-top: 26px;
-    margin-left: 20px;
+    margin-left: 24px;
     float: left;
 
 }
@@ -90,7 +90,7 @@
 }
 
 .sect4 {
-    margin-left: 20px;
+    margin-left: 24px;
 }
 
 .sect5 {
@@ -117,7 +117,7 @@
 
 .sect5 main section {
     
-    margin-left: 10px;
+    margin-left: 15px;
     margin-top: 30px;
     font-size: 20px;
     justify-content: start;
@@ -130,7 +130,7 @@
 
 
 .contain1 {
-    margin-left: 10px;
+    margin-left: -20px;
     display: inline-flex;
     column-gap: 60px;
 
@@ -194,30 +194,6 @@ article {
     color: darkgrey;
 }
 
-
-
-.bot1 {
-    float: right;
-    font-size: 20px;
-   margin-left:-70px;
-    margin-top:-380px;
-    margin-right:220px;
-       width:320px;
-}
-
-.bot2 {
-    float: right;
-    font-size: 20px;
-   margin-right:120px;
-    margin-left: 190px;
-    margin-top:-200px;
-}
-   
-}
-.img6{
-    height: 225px;
-    width: 210px;
-}
 .foot1 {
     color: rgb(86, 86, 82);
     font-size: 25px;
@@ -235,4 +211,25 @@ article {
     float: right;
     font-size: 25px;
     margin-right: 28px;
+}
+
+.bot1 {
+    float: right;
+    font-size: 20px;
+   margin-left:-70px;
+    margin-top:-380px;
+    margin-right:220px;
+       width:320px;
+}
+
+.bot2 {
+    float: right;
+    font-size: 20px;
+   margin-right:120px;
+    margin-left: 190px;
+    margin-top:-200px;
+}
+.img6{
+    height: 220px;
+    width: 210px;
 }
