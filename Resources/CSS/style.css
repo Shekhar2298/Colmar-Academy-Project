@@ -199,15 +199,19 @@ article {
 .bot1 {
     float: right;
     font-size: 20px;
-    margin-left: 50px;
-    width:250px;
+   margin-left:-70px;
+    margin-top:-380px;
+    margin-right:220px;
+       width:320px;
 }
 
 .bot2 {
-  float:right;
+    float: right;
     font-size: 20px;
-  margin-top: 10px;
-        width:250px;
+   margin-right:120px;
+    margin-left: 190px;
+    margin-top:-200px;
+}
    
 }
 .img6{
